@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0B8D0'
+    - '#A05000'
+    - '#986870'
+    - '#F88808'
+    - '#000000'
+  brandStrength: 0.732794
+  lightness: 0.595395
+  rhythmicContrast: 0.100819
+  saturation: 0.830967
+cta: {}
+layout_spectrum: 0.944901
+name: The Center Point
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.264803
